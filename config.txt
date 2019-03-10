@@ -1,0 +1,6 @@
+owner=536126359966187530
+prefix=T
+game=Thelp _ Tplay
+stayinchannel=true
+songinstatus=false
+token=NTU0Mzc1MDcxOTc2NzgzODc0.D2bttw.R4SSYuJVgGD91KF82f0PI7zn3jg
